@@ -31,7 +31,8 @@ TRANSLATIONS = \
     translations/tr.ts \
     translations/ug.ts \
     translations/uk.ts \
-    translations/zh.ts
+    translations/zh.ts \
+    translations/ko.ts
 
 #rules to generate ts
 isEmpty(QMAKE_LUPDATE) {
